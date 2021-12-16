@@ -1,5 +1,5 @@
 # Java-Swing-College-MiniProject
-Online Shopping Store/ Order Management System
+Online Shopping Store/ Order Management System Using JAVA Swing
 
 Contributors:
 
