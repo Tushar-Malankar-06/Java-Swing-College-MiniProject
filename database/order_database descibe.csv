@@ -1,0 +1,5 @@
+Field,Type,Null,Key,Default,Extra
+email_id,varchar(255),NO,,NULL,
+orders,varchar(2550),YES,,NULL,
+order_id,varchar(255),YES,,NULL,
+amount,double,YES,,NULL,

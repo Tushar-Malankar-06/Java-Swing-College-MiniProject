@@ -1,0 +1,5 @@
+Field,Type,Null,Key,Default,Extra
+Apple_ID,varchar(255),NO,PRI,NULL,
+Apple_password,varchar(255),NO,,NULL,
+Newark_pin,varchar(50),NO,,NULL,
+email_id,varchar(225),YES,,NULL,

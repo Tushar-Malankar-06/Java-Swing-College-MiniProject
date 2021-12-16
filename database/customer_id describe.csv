@@ -1,0 +1,9 @@
+Field,Type,Null,Key,Default,Extra
+username,varchar(255),NO,,NULL,
+phone,varchar(25),YES,,NULL,
+email_id,varchar(255),NO,PRI,NULL,
+street,varchar(255),YES,,NULL,
+city,varchar(255),YES,,NULL,
+state,varchar(20),YES,,NULL,
+zip_code,varchar(30),YES,,NULL,
+password,varchar(25),YES,,NULL,

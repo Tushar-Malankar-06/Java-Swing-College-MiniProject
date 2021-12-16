@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+Account_name,varchar(255),NO,PRI,NULL,
+email,varchar(25),NO,UNI,NULL,
+upi_id,varchar(255),NO,UNI,NULL,
+account_password,varchar(255),NO,,NULL,
+upi_pin,varchar(50),NO,,NULL,
+Balance,double,YES,,NULL,
